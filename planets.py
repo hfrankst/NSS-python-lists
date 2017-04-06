@@ -1,0 +1,10 @@
+planet_list = ["Mercury", "Mars"]
+print(planet_list)
+planet_list.append('Jupiter')
+print(planet_list)
+planet_list.append('Saturn')
+print(planet_list)
+planet_list.extend(['Neptune', 'Uranus'])
+print(planet_list)
+planet_list.append('Pluto')
+print(planet_list)
