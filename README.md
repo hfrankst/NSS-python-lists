@@ -8,8 +8,8 @@ echo 'planet_list = ["Mercury", "Mars"]' >> planets.py
 ```
 ## Reference
 
-*[Python Lists](https://docs.python.org/3.6/tutorial/datastructures.html)
-*[Learn Python - Lists](http://www.learnpython.org/en/Lists)
+* [Python Lists](https://docs.python.org/3.6/tutorial/datastructures.html)
+* [Learn Python - Lists](http://www.learnpython.org/en/Lists)
 
 ## Exercise
 
